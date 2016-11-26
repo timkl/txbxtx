@@ -1,0 +1,7 @@
+txbxtx.py
+txbxtx.egg-info/PKG-INFO
+txbxtx.egg-info/SOURCES.txt
+txbxtx.egg-info/dependency_links.txt
+txbxtx.egg-info/entry_points.txt
+txbxtx.egg-info/requires.txt
+txbxtx.egg-info/top_level.txt

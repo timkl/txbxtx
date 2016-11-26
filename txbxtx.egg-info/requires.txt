@@ -1,0 +1,3 @@
+Click
+gtts
+pydub
