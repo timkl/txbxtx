@@ -2,31 +2,45 @@
   "tabatas": [
     {
       "id": 0,
+      "durExercise": 60,
+      "durRest": 1,
+      "numCycles": 1,
+      "exercises": ["prepare"]
+    },
+    {
+      "id": 1,
       "durExercise": 12,
       "durRest": 2,
       "numCycles": 1,
       "exercises": ["leg swing left", "leg swing right", "leg cross left", "leg cross right", "wall shoulder", "arm stretch left", "arm stretch right"]
     },
     {
-      "id": 1,
+      "id": 2,
       "durExercise": 24,
       "durRest": 6,
       "numCycles": 3,
       "exercises": ["biceps curls", "squat", "push ups", "headstand", "l-sit", "shoulder press", "core bars", "wall ball circle"]
     },
     {
-      "id": 2,
+      "id": 3,
       "durExercise": 12,
       "durRest": 2,
       "numCycles": 1,
       "exercises": ["dove left", "dove right", "back left", "back right"]
     },
     {
-      "id": 3,
+      "id": 4,
       "durExercise": 30,
       "durRest": 2,
       "numCycles": 1,
       "exercises": ["leg roller left", "leg roller right", "roller back"]
+    },
+    {
+      "id": 5,
+      "durExercise": 60,
+      "durRest": 1,
+      "numCycles": 1,
+      "exercises": ["clean up"]
     }
   ]
 }

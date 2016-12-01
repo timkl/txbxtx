@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='txbxtx',
     version='1.0',
-    py_modules=['txbxtx'],
+    py_modules=['app'],
     install_requires=[
         'Click',
         'gtts',
@@ -12,7 +12,7 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        txbxtx=txbxtx:cli
+        txbxtx=app:cli
     '''
 
 )
